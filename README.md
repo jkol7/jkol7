@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A full-stack developer focused on ReactJS, JS, MaterialUI and soon to be more!</h3>
+<h3 align="center">A full-stack developer focused on ReactJS, JS, Jest and soon to be more!</h3>
 
 - 🔭 I’m currently working on [My Gratitude Journal](https://github.com/jkol7/mygratitudejournal)
 
